@@ -1,0 +1,7 @@
+p {
+  color: red;
+  width: 500px;
+  /* p标签的border */
+  border: 1px solid black; 
+}
+
